@@ -1,0 +1,12 @@
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/Task1Library.deps.json
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/Task1Library.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/Task1Library.pdb
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.csproj.AssemblyReference.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.AssemblyInfoInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.AssemblyInfo.cs
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.csproj.CoreCompileInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/refint/Task1Library.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/Task1Library.pdb
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/ref/Task1Library.dll

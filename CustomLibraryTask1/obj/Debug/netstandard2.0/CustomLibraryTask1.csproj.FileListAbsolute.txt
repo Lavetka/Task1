@@ -1,0 +1,10 @@
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/bin/Debug/netstandard2.0/CustomLibraryTask1.deps.json
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/bin/Debug/netstandard2.0/CustomLibraryTask1.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/bin/Debug/netstandard2.0/CustomLibraryTask1.pdb
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.csproj.AssemblyReference.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.AssemblyInfoInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.AssemblyInfo.cs
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.csproj.CoreCompileInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/Debug/netstandard2.0/CustomLibraryTask1.pdb

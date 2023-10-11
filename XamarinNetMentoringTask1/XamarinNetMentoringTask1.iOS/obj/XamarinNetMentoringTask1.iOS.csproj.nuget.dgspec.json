@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.iOS/XamarinNetMentoringTask1.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/CustomLibraryTask1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/CustomLibraryTask1.csproj",
+        "projectName": "CustomLibraryTask1",
+        "projectPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/CustomLibraryTask1.csproj",
+        "packagesPath": "/Users/lavetos/.nuget/packages/",
+        "outputPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lavetos/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/lavetos/Library/Caches/VisualStudio/17.0/MSBuild/15356_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.iOS/XamarinNetMentoringTask1.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.iOS/XamarinNetMentoringTask1.iOS.csproj",
+        "projectName": "XamarinNetMentoringTask1.iOS",
+        "projectPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.iOS/XamarinNetMentoringTask1.iOS.csproj",
+        "packagesPath": "/Users/lavetos/.nuget/packages/",
+        "outputPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/lavetos/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.csproj": {
+                "projectPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.csproj",
+        "projectName": "XamarinNetMentoringTask1",
+        "projectPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1.csproj",
+        "packagesPath": "/Users/lavetos/.nuget/packages/",
+        "outputPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/XamarinNetMentoringTask1/XamarinNetMentoringTask1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lavetos/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/CustomLibraryTask1.csproj": {
+                "projectPath": "/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/CustomLibraryTask1/CustomLibraryTask1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/lavetos/Library/Caches/VisualStudio/17.0/MSBuild/15356_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

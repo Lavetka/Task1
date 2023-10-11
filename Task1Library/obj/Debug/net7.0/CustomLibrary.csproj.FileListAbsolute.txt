@@ -1,0 +1,12 @@
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/CustomLibrary.deps.json
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/CustomLibrary.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/bin/Debug/net7.0/CustomLibrary.pdb
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.csproj.AssemblyReference.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.AssemblyInfoInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.AssemblyInfo.cs
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.csproj.CoreCompileInputs.cache
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/refint/CustomLibrary.dll
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/CustomLibrary.pdb
+/Users/lavetos/Projects/NET Mentoring/ConsoleNetMentoringTask1/Task1Library/obj/Debug/net7.0/ref/CustomLibrary.dll
